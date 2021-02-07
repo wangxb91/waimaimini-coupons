@@ -62,10 +62,10 @@
 ![二维码](https://github.com/wangxb91/waimaimini-coupons/blob/main/%E4%BC%98%E6%83%A0%E5%88%B8.jpg)
 
 ### 有趣 小程序：垃圾神探
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2013.jpg)
+![二维码](https://github.com/wangxb91/waimaimini-coupons/blob/main/%E5%9E%83%E5%9C%BE%E7%A5%9E%E6%8E%A2.jpg)
 
 ## 更多教程可以关注公众号：外卖气象台   
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2014.jpg)
+![二维码](https://github.com/wangxb91/waimaimini-coupons/blob/main/python%E5%9B%A2%E9%95%BF.jpg)
 
 ## 感谢
 非常感谢原作者   https://github.com/hedongshu/miniapp-coupons 提供的代码
