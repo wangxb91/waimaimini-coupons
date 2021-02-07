@@ -32,7 +32,7 @@
 ### 开发
 代码非常的简单，就是列表，列表里面是跳转链接，点哪领哪个券
 
-小程序名：多实惠省钱购
+小程序名：外卖购物神券天天领
 具体功能可以用微信扫码看看
 
 ### 其他问题
@@ -59,7 +59,7 @@
   
 ## 已上线案例：
 ### 外卖购物 小程序：外卖购物神券天天领
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2012.jpg)
+![二维码](https://github.com/wangxb91/waimaimini-coupons/blob/main/%E4%BC%98%E6%83%A0%E5%88%B8.jpg)
 
 ### 有趣 小程序：垃圾神探
 ![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2013.jpg)
